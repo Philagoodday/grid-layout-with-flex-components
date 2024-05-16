@@ -1,3 +1,20 @@
 body{
     color: chocolate;
 }
+h1{
+    background-color: black;
+}
+
+p{
+    width: 20%;
+}
+
+.emojis{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.emoji{
+    background-color: cyan;
+}
